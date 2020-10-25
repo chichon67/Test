@@ -1,1 +1,1 @@
-I've added some text on the second branch 
+this message should appear on both branches if the merge was successful! 
